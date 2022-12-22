@@ -54,11 +54,11 @@ Next, we saw that the best hyperparameters for logistic regression were to use t
 
 From recursive feature selection, we found that the top 5 best features were time left, ct\_armor, t\_armor, ct\_money, and t\_money. Using these best features, we then used a heatmap to visualize the correlation between these features, and plotted the most correlated features against each other.
 
-![](RackMultipart20211222-4-1l7t2ul_html_48a64d9d82358895.png) ![](RackMultipart20211222-4-1l7t2ul_html_2c15c6467cf1722d.png)
+<img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045422-ab64b066-3932-453a-8163-f01fec7487d0.png"> <img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045472-44838128-779b-4eaf-b8fc-19c947c79fc7.png">
 
-![](RackMultipart20211222-4-1l7t2ul_html_880435519c277a54.png) ![](RackMultipart20211222-4-1l7t2ul_html_452aaa9c4328f13f.png)
+<img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045560-10376e4f-95d6-424c-b041-ca62a9026ab0.png"> <img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045590-4a3f1060-7bab-48aa-8987-f65efaa4515c.png">
 
-![](RackMultipart20211222-4-1l7t2ul_html_72dc760d05d81f52.png) ![](RackMultipart20211222-4-1l7t2ul_html_372bd7e578eefbab.png)
+<img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045746-b5db4693-161c-4e20-987d-99ad932ff79f.png"> <img width="496" alt="image" src="https://user-images.githubusercontent.com/15839864/209045786-134cc87c-77bc-4cd0-b938-9431e394fed1.png">
 
 **References**
 
